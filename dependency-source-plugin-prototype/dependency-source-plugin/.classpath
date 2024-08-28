@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.jar" sourcepath="C:/Users/eavrbra/.m2/repository/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9-sources.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.apache.maven"/>
+			<attribute name="maven.artifactId" value="maven-artifact"/>
+			<attribute name="maven.version" value="2.0.9"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/maven-dependency-plugin"/>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.apache.maven.plugin-tools"/>
+			<attribute name="maven.artifactId" value="maven-plugin-annotations"/>
+			<attribute name="maven.version" value="3.2"/>
+			<attribute name="maven.scope" value="provided"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/1.4/maven-common-artifact-filters-1.4.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.apache.maven.shared"/>
+			<attribute name="maven.artifactId" value="maven-common-artifact-filters"/>
+			<attribute name="maven.version" value="1.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.9/plexus-utils-3.0.9.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.codehaus.plexus"/>
+			<attribute name="maven.artifactId" value="plexus-utils"/>
+			<attribute name="maven.version" value="3.0.9"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/codehaus/plexus/plexus-io/2.0.6/plexus-io-2.0.6.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.codehaus.plexus"/>
+			<attribute name="maven.artifactId" value="plexus-io"/>
+			<attribute name="maven.version" value="2.0.6"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.apache.maven"/>
+			<attribute name="maven.artifactId" value="maven-project"/>
+			<attribute name="maven.version" value="2.0.9"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/codehaus/plexus/plexus-archiver/2.3/plexus-archiver-2.3.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.codehaus.plexus"/>
+			<attribute name="maven.artifactId" value="plexus-archiver"/>
+			<attribute name="maven.version" value="2.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/eavrbra/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.codehaus.plexus"/>
+			<attribute name="maven.artifactId" value="plexus-container-default"/>
+			<attribute name="maven.version" value="1.0-alpha-9-stable-1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

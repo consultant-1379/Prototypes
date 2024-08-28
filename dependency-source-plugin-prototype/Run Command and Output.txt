@@ -1,0 +1,202 @@
+Command Used: mvn clean install org.apache.maven.plugins:dependency-source-plugin:1.0-SNAPSHOT:list-source -Dmaven.test.skip=true
+
+Output:
+
+[INFO] --- dependency-source-plugin:1.0-SNAPSHOT:list-source (default-cli) @ mediation-core-api ---
+[INFO] Repositories Used by this build:
+[INFO] litp_releases
+[INFO] Repository URI: nexus/content/repositories/litp_releases
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: litp_releases
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/litp_releases
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] releases
+[INFO] Repository URI: nexus/content/repositories/releases
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: releases
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/releases
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] jbosseap
+[INFO] Repository URI: nexus/content/repositories/jbosseap
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: jbosseap
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/jbosseap
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] 3pptools
+[INFO] Repository URI: nexus/content/repositories/3pptools
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: 3pptools
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/3pptools
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] ammeon-snapshots
+[INFO] Repository URI: nexus/content/repositories/ammeon-snapshots
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: ammeon-snapshots
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/ammeon-snapshots
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] glassfish
+[INFO] Repository URI: nexus/content/repositories/glassfish
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: glassfish
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/glassfish
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] jenkins-releases
+[INFO] Repository URI: nexus/content/repositories/jenkins-releases
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: jenkins-releases
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/jenkins-releases
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] ui_3pps
+[INFO] Repository URI: nexus/content/repositories/ui_3pps
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: ui_3pps
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/ui_3pps
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] jcat
+[INFO] Repository URI: nexus/content/repositories/jcat
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: jcat
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/jcat
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] ammeon
+[INFO] Repository URI: nexus/content/repositories/ammeon
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: ammeon
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/ammeon
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] jenkins-snapshots
+[INFO] Repository URI: nexus/content/repositories/jenkins-snapshots
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: jenkins-snapshots
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/jenkins-snapshots
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] ossrc_imports
+[INFO] Repository URI: nexus/content/repositories/ossrc_imports
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: ossrc_imports
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/ossrc_imports
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] nexus
+[INFO] Repository URI: nexus/content/repositories/central
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: nexus
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/central
+   layout: default
+snapshots: [enabled => true, update => always]
+ releases: [enabled => true, update => daily]
+
+[INFO] thirdparty
+[INFO] Repository URI: nexus/content/repositories/thirdparty
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: thirdparty
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/thirdparty
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] eclipselink
+[INFO] Repository URI: nexus/content/repositories/eclipselink
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: eclipselink
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/eclipselink
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+
+[INFO] snapshots
+[INFO] Repository URI: nexus/content/repositories/snapshots
+[INFO] Repository Host:  cifwk-oss.lmera.ericsson.se:8081
+[INFO] Repository Protocol: http
+[INFO] Full Details:
+[INFO]        id: snapshots
+      url: http://cifwk-oss.lmera.ericsson.se:8081/nexus/content/repositories/snapshots
+   layout: default
+snapshots: [enabled => true, update => daily]
+ releases: [enabled => false, update => daily]
+
+[INFO] Dependencies Used by this build:
+[INFO] Ericsson Dependencies:
+[INFO] com.ericsson.oss.itpf.sdk:sdk-tracing-api:jar:1.0.8:compile:com/ericsson/oss/itpf/sdk/sdk-tracing-api/1.0.8/sdk-tracing-api-1.0.8.jar
+[INFO] com.ericsson.oss.itpf.sdk:sdk-modeled-eventbus-api:jar:1.0.13:compile:com/ericsson/oss/itpf/sdk/sdk-modeled-eventbus-api/1.0.13/sdk-modeled-eventbus-api-1.0.13.jar
+[INFO] com.ericsson.oss.itpf.sdk:sdk-modeling-support:jar:1.0.15:compile:com/ericsson/oss/itpf/sdk/sdk-modeling-support/1.0.15/sdk-modeling-support-1.0.15.jar
+[INFO] com.ericsson.oss.itpf.sdk:sdk-eventbus-api:jar:1.0.13:compile:com/ericsson/oss/itpf/sdk/sdk-eventbus-api/1.0.13/sdk-eventbus-api-1.0.13.jar
+[INFO] com.ericsson.nms.mediation:mediation-service-locator-api:jar:2.15.2-SNAPSHOT:compile:com/ericsson/nms/mediation/mediation-service-locator-api/2.15.2-SNAPSHOT/mediation-service-locator-api-2.15.2-SNAPSHOT.jar
+[INFO] 3pp Dependencies:
+[INFO] javax:javaee-api:jar:6.0:provided:javax/javaee-api/6.0/javaee-api-6.0.jar
+[INFO] org.slf4j:slf4j-api:jar:1.7.5:provided:org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar
+[INFO] javax.enterprise:cdi-api:jar:1.1.EDR1.2:provided:javax/enterprise/cdi-api/1.1.EDR1.2/cdi-api-1.1.EDR1.2.jar
+[INFO] javax.el:el-api:jar:2.2:provided:javax/el/el-api/2.2/el-api-2.2.jar
+[INFO] org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.1_spec:jar:1.0.0.Beta1:provided:org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+[INFO] javax.annotation:jsr250-api:jar:1.0:provided:javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+[INFO] javax.inject:javax.inject:jar:1:provided:javax/inject/javax.inject/1/javax.inject-1.jar
+[INFO] junit:junit:jar:4.10:test:junit/junit/4.10/junit-4.10.jar
+[INFO] org.hamcrest:hamcrest-core:jar:1.1:test:org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+[INFO] org.easymock:easymock:jar:3.1:test:org/easymock/easymock/3.1/easymock-3.1.jar
+[INFO] cglib:cglib-nodep:jar:2.2.2:test:cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar
+[INFO] org.objenesis:objenesis:jar:1.2:test:org/objenesis/objenesis/1.2/objenesis-1.2.jar
